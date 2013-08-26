@@ -7,7 +7,6 @@ setup(
     license='MIT',
     author='Miphreal Adler',
     author_email='miphreal@gmail.com',
-    long_description=open('README.md').read()
 )
 
 
